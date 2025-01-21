@@ -1,0 +1,14 @@
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.csprojResolveAssemblyReference.cache
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\bin\Debug\Academia_admin_cursos.exe
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\bin\Debug\Academia_admin_cursos.pdb
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.exe
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.pdb
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.MainForm.resources
+D:\Usuario Ange\Escritorio\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.csproj.GenerateResource.Cache
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.csprojResolveAssemblyReference.cache
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.MainForm.resources
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.csproj.GenerateResource.Cache
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.exe
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\obj\Debug\Academia_admin_cursos.pdb
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\bin\Debug\Academia_admin_cursos.exe
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Academia_admin_cursos\Academia_admin_cursos\bin\Debug\Academia_admin_cursos.pdb
