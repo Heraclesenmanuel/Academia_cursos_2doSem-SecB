@@ -1,4 +1,5 @@
-﻿using System;
+//Heracles Sánchez && Angela Arenas
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
